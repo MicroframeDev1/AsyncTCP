@@ -1,14 +1,14 @@
 {
-  "name": "AsyncTCP-esphome",
+  "name": "AsyncTCP-Microframe",
   "description": "Asynchronous TCP Library for ESP32",
   "keywords": "async,tcp",
   "authors": {
-    "name": "Hristo Gochkov",
+    "name": "Microframe",
     "maintainer": true
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/esphome/AsyncTCP.git"
+    "url": "https://github.com/MicroframeDev1/AsyncTCP.git"
   },
   "version": "2.0.1",
   "license": "LGPL-3.0",
